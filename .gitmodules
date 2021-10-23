@@ -13,3 +13,6 @@
 [submodule "packages/snowpack-plugin"]
 	path = packages/snowpack-plugin
 	url = git@github.com:strictly-lang/snowpack-plugin.git
+[submodule "packages/cli"]
+	path = packages/cli
+	url = git@github.com:strictly-lang/cli.git
