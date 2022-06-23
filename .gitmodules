@@ -1,12 +1,15 @@
-[submodule "packages/i18n"]
-	path = packages/i18n
-	url = git@github.com:strictly-lang/i18n.git
-[submodule "packages/router"]
-	path = packages/router
-	url = git@github.com:strictly-lang/router.git
+[submodule "packages/runtime"]
+	path = packages/runtime
+	url = git@github.com:strictly-lang/runtime.git
 [submodule "packages/compiler"]
 	path = packages/compiler
 	url = git@github.com:strictly-lang/compiler.git
+[submodule "packages/router"]
+	path = packages/router
+	url = git@github.com:strictly-lang/router.git
+[submodule "packages/i18n"]
+	path = packages/i18n
+	url = git@github.com:strictly-lang/i18n.git
 [submodule "packages/vscode-plugin"]
 	path = packages/vscode-plugin
 	url = git@github.com:strictly-lang/vscode-plugin.git
