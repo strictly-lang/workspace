@@ -19,3 +19,6 @@
 [submodule "packages/cli"]
 	path = packages/cli
 	url = git@github.com:strictly-lang/cli.git
+[submodule "packages/tree-sitter-strictly"]
+	path = packages/tree-sitter-strictly
+	url = git@github.com:strictly-lang/tree-sitter-strictly.git
